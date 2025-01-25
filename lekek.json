@@ -1,0 +1,19 @@
+{
+    "users": [
+        {
+            "password": "KONTOL"
+        }
+    ],
+    "filename": "index.js",
+    "access": [
+        "6281389190204",
+        "6287754538902",
+        "6282197571186"
+    ],
+    "access_bot": [
+        "6287743212449",
+        "6287754538902",
+        "6282197571186"
+    ],
+    "bot_token": "7709556767:AAHbSaoObYWG4787oHhj4Cq7UnhokN_9W8s"
+}
